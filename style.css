@@ -51,3 +51,19 @@ p {
   font-variation-settings:
     "wdth" 100;
 }
+footer {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  font-weight: 400;
+  font-size: 14pt;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
