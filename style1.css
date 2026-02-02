@@ -12,9 +12,9 @@ body {
     animation: bg 15s infinite;
 }
 @keyframes bg {
-  0% {background-color: rgba(0, 37, 255, 0.34);}
-  50% {background-color: rgba(0, 128, 255, 0.23);}
-  100% {background-color: rgba(0, 37, 255, 0.34);}
+  0% {background-color: rgba(43, 196, 89, 0.472);}
+  50% {background-color: rgba(0, 255, 166, 0.282);}
+  100% {background-color: rgba(43, 196, 89, 0.472);}
 }
 .title {
   display: flex;
